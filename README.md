@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Michael 👋
+I like Linux and self-hosting, and I'm interested in backend development and infrastructure.
+Most comfortable with Python, with some experience in C, Java/Kotlin, and Javascript.
+Currently finishing my CS degree and learning Go.
 
-<!--
-**michaelptak/michaelptak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently Working On
+- Expanding and improving my homelab.
+- [Boot.dev](https://www.boot.dev) backend learning path
+- Planning a Go CLI music player that integrates with my self-hosted Navidrome server
 
-Here are some ideas to get you started:
+## Live Project
+**EventHub** — my first fully deployed web app, built with Django and PostgreSQL  
+[event-hub-0yzz.onrender.com](https://event-hub-0yzz.onrender.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- michael.p11@proton.me
