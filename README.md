@@ -5,7 +5,7 @@ Currently finishing my CS degree and learning Go.
 
 ## Currently Working On
 - Expanding and improving my homelab.
-- [Boot.dev](https://www.boot.dev) backend learning path
+- [Boot.dev](https://www.boot.dev/u/mikington) backend learning path (peep my progress)
 - Planning a Go CLI music player that integrates with my self-hosted Navidrome server
 
 ## Live Project
